@@ -151,3 +151,5 @@ Just delete your install folder. Thats it.
 - [Nexus Page Horizon v1.8 Immersive Survival System](https://www.nexusmods.com/fallout4/mods/61998/?tab=articles&topic_id=12372738)
 - [Jolly Co-Operators Discord](https://discord.gg/jolly-coop)
 
+# Thanks
+- Awesome Humanbeing [IAmMe](https://github.com/iAmMe27/WoD) check out his List. 
