@@ -1,4 +1,4 @@
-![Desolate Survior](img/Desolate survivor_gallery.png)
+![Desolate Survior](img/desolate-survivor_gallery.png)
 
 **Contains Violence, Drug use and Gore. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
