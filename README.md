@@ -8,7 +8,7 @@
 It is a kinda Hardcore Fallout 4 Modlist featuring the amazing Horizon Overhaul & the Immersive Survival add-on
 
 # Quick Links
-- [What is Wasteland of Depravity?](#what-is-desolate-survivor?)
+- [What is Desolate Survivor](#what-is-desolate-survivor?)
 - [Quick Links](#quick-links)
 - [Before You Start](#before-you-start)
   - [Hardware Requirements](#hardware-requirements)
@@ -30,6 +30,7 @@ It is a kinda Hardcore Fallout 4 Modlist featuring the amazing Horizon Overhaul 
   - [Stock Game](#stock-game)
   - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
 - [Uninstalling Desolate Survivor](#uninstalling-desolate-survivor)
+- [Helpful Stuff](#helpful-stuff)
 
 
 
@@ -143,3 +144,10 @@ Enjoy suffering a little xoxo Schrubbls
 
 # Uninstalling Desolate Survivor
 Just delete your install folder. Thats it. 
+
+# Helpful Stuff
+- [Horizon Wiki](https://fo4horizon.fandom.com/wiki/Horizon_Wiki)
+- [Horizon Discord Server](https://discord.gg/gW2xdaH)
+- [Nexus Page Horizon v1.8 Immersive Survival System](https://www.nexusmods.com/fallout4/mods/61998/?tab=articles&topic_id=12372738)
+- [Jolly Co-Operators Discord](https://discord.gg/jolly-coop)
+
