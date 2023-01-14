@@ -29,6 +29,8 @@ It is a kinda Hardcore Fallout 4 Modlist featuring the amazing Horizon Overhaul 
 - [Post-Installation](#post-installation)
   - [Stock Game](#stock-game)
   - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
+- [Uninstalling Desolate Survivor](#uninstalling-desolate-survivor)
+
 
 
 # Before You Start
@@ -137,9 +139,7 @@ Almost there but we're not out of the woods yet! After Wabbajack has given you t
 ## Stock Game
 WoD utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Fallout 4 game files during the installation process. This means that your Steam installation of Fallout 4 is completely untouched, even by files that go in the game folder such as ENB files.
 
-## Creating a desktop shortcut
-Nobody wants to be launching their game via multiple clicks, they want to be able to do it from the desktop! This is simple to do - open MO2, ensure **WoD** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop". Of course, you can always run from inside of MO2 by clicking the "Run" button instead.
+Enjoy suffering a little xoxo Schrubbls
 
-![Desktop Shortcut Creation](img/DesktopShortcut00.png)
-
-Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Fallout 4 from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
+# Uninstalling Desolate Survivor
+Just delete your install folder. Thats it. 
