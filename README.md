@@ -1,2 +1,1 @@
-# Desolate-Survivor
-Github for Desolate Survivor a Unofficial Wabbajack Modlist
+![WoD Banner](img/WoDBanner.png)
