@@ -152,4 +152,4 @@ Just delete your install folder. Thats it.
 - [Jolly Co-Operators Discord](https://discord.gg/jolly-coop)
 
 # Thanks
-- Awesome Humanbeing [IAmMe](https://github.com/iAmMe27/WoD) check out his List. 
+- Awesome Humanbean and Fren [IAmMe](https://github.com/iAmMe27/WoD) check out his List. 
