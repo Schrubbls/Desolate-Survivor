@@ -93,7 +93,6 @@ Driver defaults from Nvidia and AMD for shader cache size is limited to 4GB. Bei
 4. Set the Shader Cache to *at least* 10GB
 5. Done
 
-![Shader Cache](img/ShaderCache.png)
 
 ### Disable Steam Overlay
 The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
